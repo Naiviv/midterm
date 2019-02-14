@@ -1,6 +1,10 @@
 a {
     text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
 }
 a:hover {
     color:green;
+}
+h1{
+font-family: 'Ultra', serif;
 }
